@@ -1,1 +1,2 @@
 Pierwsza proba dodawania plikow do gita.
+Druga proba wrzucania na gita.
